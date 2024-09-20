@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tarea_1",
+    "section": "",
+    "text": "Tarea 1\n\nEjercicio 1.- Explique ¿Por qué el aprendizaje reforzado se diferencia del aprendizaje supervisado y del no supervisado?\nEl aprendizaje reforzado se distingue por ser un método de aprendizaje que considera las investigaciones tipo prueba y error; y las recompensas retrasadas. Lo que hace que este método se ha más adecuado para los problemas interactivos en comparación con el aprendizaje supervisado y no supervisado. Lo anterior se debe a la dificultad que tienen los problemas interactivos al momento de generar muestras de datos que sean tanto correctos como representativos de todas las situaciones en las que el agente debe actuar. Las muestras de datos son necesarias para que los aprendizaje supervisado y no supervisado puedan ser utilizados.\n\n\nEjercicio 2.- De acuerdo al video de Steve Brunton, explique cuál es el significado de la siguiente expresión:\n\\[ V_{\\pi}(s)=E {\\LARGE(} \\sum_{t} \\gamma^{t}r_{t}|s_{0}=s{\\LARGE)} \\]\n\\(V_{\\pi}(s)\\) nos permite medir la recompensa esperada en el futuro si empiezo en el estado \\(s\\) y usando la política \\(\\pi\\). Esto quiere decir que para saber si nuestra política es buena o mala, se tienen que observar que tal buen valor se tiene en ese estado.\nUn ejemplo puede ser en una partida de Blackjack si mis primas dos cartas junto 20 pts, y mis compañeros sus cartas expuestas están en el rango 6-9 pts. Yo probablemente tenga una mejor oportunidad de ganar. Ya que mis compañeros tienen más chance de pasarse de puntos.\n\n1 + 1\n\n2",
+    "crumbs": [
+      "Tarea 1"
+    ]
+  },
+  {
+    "objectID": "index.html#explique-porqué-el-aprendizaje-reforzado-se-diferencia-entre-aprendizaje-supervisado-y-no-supervisado",
+    "href": "index.html#explique-porqué-el-aprendizaje-reforzado-se-diferencia-entre-aprendizaje-supervisado-y-no-supervisado",
+    "title": "Tarea_1",
+    "section": "1.1 1.- Explique ¿Porqué el aprendizaje reforzado se diferencia entre aprendizaje supervisado y no supervisado ?",
+    "text": "1.1 1.- Explique ¿Porqué el aprendizaje reforzado se diferencia entre aprendizaje supervisado y no supervisado ?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Tarea 1</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#ve",
+    "href": "index.html#ve",
+    "title": "Tarea_1",
+    "section": "1.2 2.- Ve",
+    "text": "1.2 2.- Ve\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n2",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Tarea 1</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n2",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

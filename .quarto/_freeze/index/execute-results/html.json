@@ -1,0 +1,12 @@
+{
+  "hash": "57f8782a62436c113005bca7fd3794b2",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\njupyter: python3\n---\n\n\n\n\n\n\n\n\n# Tarea 1 {.unnumbered}\n\n#### Ejercicio 1.- Explique ¿Por qué el aprendizaje reforzado se diferencia del aprendizaje supervisado y del no supervisado?\n\nEl aprendizaje reforzado se distingue por ser un método de aprendizaje que considera las investigaciones tipo prueba y error; y las recompensas retrasadas. Lo que hace que este método se ha más adecuado para los problemas interactivos en comparación con el aprendizaje supervisado y no supervisado. Lo anterior se debe a la dificultad que tienen los problemas interactivos al momento de generar muestras de datos que sean tanto correctos como representativos de todas las situaciones en las que el agente debe actuar. Las muestras de datos son necesarias para que los aprendizaje supervisado y no supervisado puedan ser utilizados.\n\n#### Ejercicio 2.- De acuerdo al video de Steve Brunton, explique cuál es el significado de la siguiente expresión:\n\n$$ V_{\\pi}(s)=E {\\LARGE(} \\sum_{t} \\gamma^{t}r_{t}|s_{0}=s{\\LARGE)} $$\n\n$V_{\\pi}(s)$ nos permite medir la recompensa esperada en el futuro si empiezo en el estado $s$ y usando la política $\\pi$. Esto quiere decir que para saber si nuestra política es buena o mala, se tienen que observar que tal buen valor se tiene en ese estado.\n\nUn ejemplo puede ser en una partida de Blackjack si mis primas dos cartas junto 20 pts, y mis compañeros sus cartas expuestas están en el rango 6-9 pts. Yo probablemente tenga una mejor oportunidad de ganar. Ya que mis compañeros tienen más chance de pasarse de puntos.\n\n::: {#9748b452 .cell execution_count=1}\n``` {.python .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n2\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
